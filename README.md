@@ -30,7 +30,7 @@ Every implementation includes:
 - **Space Complexity:** $O(n)$
 - **Idiomatic Logic:** Using Swift's Protocol-Oriented patterns vs. Kotlin's functional/data-class patterns.
 
-## 🚀 Status
+## 📋 Status
 - [ ] Arrays & Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
@@ -42,7 +42,7 @@ Every implementation includes:
 - [ ] Heaps
 - [ ] 1-D DP
 
-## 🚀 Why This Repo?
+## 🤨 Why This Repo?
 - **Polyglot Learning:** Solving same problems using Swift and Kotlin.
 - **Problem Solving:** Focusing on time and space complexity.
 - **Reference:** A quick reference for interview prep and algorithm implementation.
